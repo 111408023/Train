@@ -12,9 +12,10 @@ void adminlogin() {
 	printf("enter your username, password and id.no.\n");
 	scanf("%s%s%d", u, p, &i);
 	fread(&G, sizeof(admin), 1, fp);
-	if((strcmp(G.username,u)== 0) && (strcmp(G.password,p)== 0) && i==G.idno)
+	if((strcmp(G.username,u)== 0) && (strcmp(G.password,p)== 0) && i==G.idno) {
 		d = 1;
-	printf("%s\n%s\n%d\n", G.username, G.password, G.idno);
+		//printf("%s\n%s\n%d\n", G.username, G.password, G.idno);
+	}
 	
 
 	/*if(d = 1) {
