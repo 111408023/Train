@@ -6,7 +6,6 @@ typedef struct newtraveller {
 	char firstname[18];
 	char lastname[18];
 	char gender;
-	char DOB[10];
 	char occupation[20];
 	char aadharno[12];
 	char email[50];

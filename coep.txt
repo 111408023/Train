@@ -1,11 +1,10 @@
 12001 Rajdhani_Express Delhi 250 Kanpur 230 Agra 801 Bhopal 707 Mumbai 10:23 9:41 23  	
 12042 Garibrath_Express	Pune 200 Bhusaval 320 Akola 30 Paras 190 Nagpur 00:02 15:35 15
 12063 Howrahmail_Express Kolkata 750 Raipur 670	Mumbai 780 Nagpur 0 ----- 12:23 3:54 39
-13452 Ambazari_express Amravati 70 Akola 80 Malkapur 74	Jalgaon	234 Nashik 3:57 12:21 9
-12345 Azad_Hind_express Mumbai 140 Pune 120 Thane 189 Daund 0 ----- 12:45 19:35 7
-12378 Shatabdi_express Dehli 200 Chandigarh 312	Amritsar 594 Surat 0 ----- 19:56 12:32 17
+13452 Ambazari_Express Amravati 70 Akola 80 Malkapur 74	Jalgaon	234 Nashik 3:57 12:21 9
+12345 Azad_Hind_Express Mumbai 140 Pune 120 Thane 189 Daund 0 ----- 12:45 19:35 7
+12378 Shatabdi_Express Dehli 200 Chandigarh 312	Amritsar 594 Surat 0 ----- 19:56 12:32 17
 15432 Maharashtra_Express Pune 585 Akola 220 Nagpur 0 ----- 0 ----- 14:54 05:37 13
-18765 Vidarbha_Express Nagpur 150 Amravati 90 Shegaon 0 ----- 0 ----- 5:00 11:02 6
-10456 Laxmipuri_express Chennai	850 Mumbai 320 Bhopal 563 Agra 0 ----- 1:00 2:00 23
-13342 Shalimaar_express Jaipur 410 Surat 204 Mumbai 706	Ooti 0 ----- 3:08 00:10 21
-		
+18765 Vidarbha_Express Nagpur 150 Amravati 90 Shegaon 40 Akola 0 ----- 5:00 11:02 6
+10456 Laxmipuri_Express Chennai	850 Mumbai 320 Bhopal 563 Agra 0 ----- 1:00 2:00 23
+13342 Shalimaar_Express Jaipur 410 Surat 204 Mumbai 706	Ooti 0 ----- 3:08 00:10 2		

@@ -7,6 +7,7 @@
 	int *dis;
 }station;
 station *arr[50];*/
+/*we can use another structure named common contains train name, no, date, arrival, departure and use it commonly*/
 typedef struct train {
 	int trainno;
 	char trainname[25];
@@ -31,11 +32,14 @@ typedef struct ticket {
 	char lastname[18];
 	int pnrno;
 	int trainno1;
-	char date[12];
+	int no_of_ticket;
+	float fare;
+	char train_name[25];
+	char from[15];
+	char to[15];
+	int dd, mm, yy;
 	char arrivaltime[10];
 	char departuretime[10];
-	int time;
-	
 }ticket;
 
 
